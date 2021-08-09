@@ -1,0 +1,18 @@
+.contact-content{
+    margin-top:50px;
+    height:56vh;
+    background-color:#6ddda5;
+    display:block;
+    margin-bottom:10px;
+    border-radius:4px;
+    position:relative;
+    text-align:center;
+}
+.contact-content h1{
+    display: inline-block;
+    text-align:center;
+    color:black;
+    font-weight: bolder;
+    word-spacing:5px;
+    font-family: var(--font1);
+}

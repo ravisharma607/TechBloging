@@ -1,0 +1,75 @@
+@media screen and (max-width:1150px){
+    .navigation{
+        flex-direction: column;
+        margin-bottom:18px;
+    }
+    .nav-left{
+        flex-direction: column;
+        text-align:center;
+    }
+    .nav-left ul{
+        margin-bottom:12px;
+    }
+    .content-right{
+        display: none;
+    }
+    .home-article{
+        flex-direction: column;
+    }
+    .home-article-content{
+        font-size:15px;
+        font-weight: bolder;
+    }
+    .home-articles h1{
+        margin-top:15px;
+        font-size:34px;
+    }
+    .home-article-img img{
+        width:200px;
+        justify-content: center;
+        align-items: center;
+    }
+    .home-article-content a{
+        font-size:20px;
+        line-height:25px;
+        font-weight:bolder;
+    }
+    .year-box{
+        top:8px;
+        left:35vw;
+        font-size:8px;
+        display: flex;
+    }
+    .year-box div{
+        margin:0px;
+        padding: 0px 5px;
+        font-size:12px;
+    }
+    .form-input{
+        width:50%;
+    }
+    .contact-content{
+        height:58vh;
+    }
+    .form-box input{
+        width:72vw;
+        font-size:15px;
+        padding:6px;
+        font-weight: bold;
+    }
+    .form-box textarea{
+        width:75vw;
+        height:17vw;
+    }
+    .post-img img{
+        height:150px;
+    }
+    .author-info{
+        font-size:16px;
+    }
+    .social i{
+        margin:4px;
+        font-size:27px;
+        align-self: center;
+     }
+}
